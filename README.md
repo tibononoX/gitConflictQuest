@@ -1,1 +1,2 @@
-# This is a conflict making sentence
+# REMOTE 
+This is a conflict making sentence
