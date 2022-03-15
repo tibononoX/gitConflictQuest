@@ -1,1 +1,1 @@
-# gitConflictQuest
+# This is a conflict making sentence
