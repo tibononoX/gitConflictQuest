@@ -1,1 +1,3 @@
-# This is a conflict making sentence
+# LOCAL
+
+ This is a conflict making sentence
